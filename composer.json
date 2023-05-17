@@ -1,5 +1,5 @@
 {
-    "name": "meenu007/change-background",
+    "name": "meenu0007/change-background",
     "description": "Change Background",
     "require": {
         "php": "^7.1.0"
@@ -21,7 +21,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Meenu007\\ChangeBackground\\": ""
+            "Meenu0007\\ChangeBackground\\": ""
         }
     }
 }
