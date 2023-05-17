@@ -1,24 +1,20 @@
 {
     "name": "meenu007/change-background",
     "description": "Change Background",
-    "keywords": [
-        "magento 2"
-    ],
+    "require": {
+        "php": "^7.1.0"
+    },
+    "type": "magento2-module",
+    "version": "0.0.1",
     "license": [
-        "proprietary"
+        "Commercial"
     ],
     "authors": [
         {
-            "name": "Meenu Thomas",
-            "email": "meenuthomas6@gmail.com",
-            "role": "Leader"
+            "name": "Commerce9",
+            "email": "meenuthomas6@gmail.com"
         }
     ],
-    "require": {
-        "php": "^7.4.0"
-    },
-    "type": "magento2-module",
-    "version": "1.1.0",
     "autoload": {
         "files": [
             "registration.php"
